@@ -1,4 +1,10 @@
+PSNR, SSIM, MS-SSIM, LPIPS / BRISQUE, BMPRI, PIQE
 
+PSNR, SSIM, LPIPS => ipynb
+MS-SSIM, BRISQUE, BMPRI, PIQE => matlab 
+
+
+For the info. of the BMPRI codes, please check below 
 ============================================================================================
 The blind multiple pseudo reference image based (BMPRI) quality measure
 Copyright(c) 2018 Xiongkuo Min, Guangtao Zhai, Ke Gu, Yutao Liu, and Xiaokang Yang
